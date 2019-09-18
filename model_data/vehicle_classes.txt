@@ -1,0 +1,8 @@
+bicycle
+car
+motorbike
+bus
+truck
+traffic light
+fire hydrant
+stop sign

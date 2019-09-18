@@ -1,0 +1,8 @@
+Red
+RedLeft
+RedRight
+Green
+GreenLeft
+GreenRight
+Yellow
+off
